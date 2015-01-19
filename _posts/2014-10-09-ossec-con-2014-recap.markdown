@@ -2,7 +2,7 @@
 layout: post
 title:  OSSEC CON 2014 Recap
 date:   2014-10-09 10:26:06
-post_author: Vic Hargrave
+author: Vic Hargrave
 categories: osseccon
 ---
 
