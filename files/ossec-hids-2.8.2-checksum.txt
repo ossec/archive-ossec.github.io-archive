@@ -1,0 +1,2 @@
+MD5(ossec-hids-2.8.2.tar.gz)= 3036d5babc96216135759338466e1f79
+SHA1(ossec-hids-2.8.2.tar.gz)= a0f403270f388fbc6a0a4fd46791b1371f5597ec
