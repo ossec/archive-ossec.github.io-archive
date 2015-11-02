@@ -41,12 +41,12 @@ revise teh website content for downloads or blogs.
 7.  Fill in the *your tags*, *your categories* and *your name* sections.  
 8.  Write the blog content below your TITLE section.
 9   cd to _project/  
-9.  Run *make clean* then *make html*.
-10. Open _project/_build/html/index.html in a browser to see the new website.
-11. Repeat steps 7-10 until you blog content looks right.
-12. Replace ossec.github.io/blog.html with _project/_build/html/_blog.html.
-13. Copy the HTML version of your blog from _project/_build/html/blog/posts to ossec.github.io/blog/posts/
-14  Run *make clean*.
-15. cd to the top level ossec.github.io
-16. Push all the revisions to ossec.github.io.
+10.  Run *make clean* then *make html*.
+11. Open _project/_build/html/index.html in a browser to see the new website.
+12. Repeat steps 7-10 until you blog content looks right.
+13. Replace ossec.github.io/blog.html with _project/_build/html/_blog.html.
+14. Copy the HTML version of your blog from _project/_build/html/blog/posts to ossec.github.io/blog/posts/.
+15. Run *make clean*.
+16. cd to the top level ossec.github.io
+17. Push all the revisions to ossec.github.io.
 
