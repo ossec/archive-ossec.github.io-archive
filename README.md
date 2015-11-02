@@ -43,7 +43,7 @@ revise teh website content for downloads or blogs.
 9   cd to _project/  
 10.  Run *make clean* then *make html*.
 11. Open _project/_build/html/index.html in a browser to see the new website.
-12. Repeat steps 7-10 until you blog content looks right.
+12. Repeat steps 7-10 until your blog content looks right.
 13. Replace ossec.github.io/blog.html with _project/_build/html/_blog.html.
 14. Copy the HTML version of your blog from _project/_build/html/blog/posts to ossec.github.io/blog/posts/.
 15. Run *make clean*.
