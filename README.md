@@ -2,8 +2,9 @@
 
 This site is built with Sphinx using the code base in ossec.github.io/_project.
 To visit the finished website, go to http://ossec.github.io.  Most of the website
-shoudl remain the same over time except when have in OSSEC releases or want to add
-a blog entry.  
+should remain the same over time except when have in OSSEC releases or want to add
+a blog entry. After cloning or forking this repo, follow these instructions to 
+revise teh website content for downloads or blogs.  
 
 ## Updating the Downloads page
 
