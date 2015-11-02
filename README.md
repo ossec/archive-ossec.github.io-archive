@@ -15,7 +15,7 @@ revise the website content for downloads or blogs.
 4. Open _project/_build/html/index.html in a browser to see the new website.
 5. Repeat steps 2-4 as necessary until the Downloads page looks right.
 6. Replace the ossec.github.io/downloads.html with _project/_build/html/downloads.html
-7  Run *make clean*.
+7. Run *make clean*.
 8. cd to the top level ossec.github.io
 9. Push all the revisions to ossec.github.io.
 
