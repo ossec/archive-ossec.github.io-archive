@@ -124,7 +124,7 @@
               <div class="panel panel-default">
                 <div class="panel-heading"><h3><a href="http://wazuh.com">Wazuh</a></h3></div>
                 <div class="panel-body">Wazuh offers deployment and support for OSSEC HIDS and AlienVault USM™ security 
-                services. WAZUH identifies performance and configuration issues affecting your deployed solution. This 
+                services. Wazuh identifies performance and configuration issues affecting your deployed solution. This 
                 process involves OSSEC, server and agent components, analysis of configurations and communications, as 
                 well as an overall system health-check. If you are an organization that requires commercial support of 
                 your OSSEC deployment, Wazuh is the company for you. 
