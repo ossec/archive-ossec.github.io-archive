@@ -111,23 +111,12 @@
             <div class="col-md-4">
               <div class="panel panel-default">
                 <div class="panel-heading"><h3><a href="https://atomicorp.com/">Atomicorp</a></h3></div>
-                <div class="panel-body">Atomicorp is the producer of Atomic Security™ which provides the most
+                <div class="panel-body">Atomicorp is the producer of Atomic Secured Linux™ which provides the most
                 secure Linux kernel on the market that combines OSSEC host intrusion detection, a threat manager 
                 that hardens both your web applications and the operating system, and a self healing system that 
                 automatically fixes problems as they occur, from crashed processes on your server, to problems 
-                with your database, to even basic system errors.  Atomicorp provides comprehensive support 
-                services for all your security needs.   
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="panel panel-default">
-                <div class="panel-heading"><h3><a href="https://www.alienvault.com/">AlienVault</a></h3></div>
-                <div class="panel-body">The AlienVault Unified Security Management™ (USM) platform provides five 
-                essential security capabilities in a single console, giving you everything you need to manage both 
-                compliance and threats. Understanding the sensitive nature of IT environments, we include active, 
-                passive and host-based technologies so that you can match the requirements of your particular 
-                environment. AlienVault USM uses OSSEC Host Intrusion Detection as one of its foundation technologies.
+                with your database, to even basic system errors.  Atomicorp provides comprehensive support deployment 
+                assistance and post-sale support for OSSEC.   
                 </div>
               </div>
             </div>
@@ -139,6 +128,17 @@
                 process involves OSSEC, server and agent components, analysis of configurations and communications, as 
                 well as an overall system health-check. If you are an organization that requires commercial support of 
                 your OSSEC deployment, Wazuh is the company for you. 
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="panel panel-default">
+                <div class="panel-heading"><h3><a href="https://www.alienvault.com/">AlienVault</a></h3></div>
+                <div class="panel-body">The AlienVault Unified Security Management™ (USM) platform provides five 
+                essential security capabilities in a single console, giving you everything you need to manage both 
+                compliance and threats. Understanding the sensitive nature of IT environments, we include active, 
+                passive and host-based technologies so that you can match the requirements of your particular 
+                environment. AlienVault USM uses OSSEC Host Intrusion Detection as one of its foundation technologies.
                 </div>
               </div>
             </div>
