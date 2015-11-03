@@ -15,9 +15,8 @@ revise the website content for downloads or blogs.
 5.  Open _project/_build/html/index.html in a browser to see the new website.
 6.  Repeat steps 2-4 as necessary until the Downloads page looks right.
 7.  Replace the ossec.github.io/downloads.html with _project/_build/html/downloads.html
-8.  Run *make clean*.
-9.  cd to the top level ossec.github.io
-10. Push all the revisions to ossec.github.io.
+8.  cd to the top level ossec.github.io
+9.  Push all the revisions to ossec.github.io.
 
 ## Adding a blog entry
 
@@ -47,6 +46,5 @@ revise the website content for downloads or blogs.
 14. Repeat steps 7-10 until your blog content looks right.
 15. Replace ossec.github.io/blog.html with _project/_build/html/_blog.html.
 16. Copy the HTML version of your blog from _project/_build/html/blog/posts to ossec.github.io/blog/posts/.
-17. Run *make clean*.
-18. cd to the top level ossec.github.io
-19. Push all the revisions to ossec.github.io.
+17. cd to the top level ossec.github.io
+18. Push all the revisions to ossec.github.io.
